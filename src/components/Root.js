@@ -9,33 +9,34 @@ class Root extends React.Component {
     constructor(props) {
         super(props);
         this.state = {};
-        this.state.tree = data;
+        this.state.tree = data; //замоканная файловая структура кодовой базы, только js-файлы
         this.toggleVisibility = this.toggleVisibility.bind(this);
         this.isVisible = this.isVisible.bind(this);
     }
 
-    toggleVisibility(path) {
-        const element = this.getChildrenByPath(path, this.state.tree);
-        if(element && element.children) {
-            if(element.isVisible) {
-               element.isVisible = false;
-            } else {
-                element.isVisible = true;
-            }
-        }
-        this.setState({tree: this.state.tree});
-    }
+    // toggleVisibility(path) {
+    //     const element = this.getChildrenByPath(path, this.state.tree);
+    //     if(element && element.children) {
+    //         if(element.isVisible) {
+    //            element.isVisible = false;
+    //         } else {
+    //             element.isVisible = true;
+    //         }
+    //     }
+    //     this.setState({tree: this.state.tree});
+    // }
 
-    isVisible(path) {
-        const element = this.getChildrenByPath(path, this.state.tree);
-        if (element.isVisible) {
-            return element.isVisible;
-        } else {
-            return false;
-        }
-    }
+    // isVisible(path) {
+    //     const element = this.getChildrenByPath(path, this.state.tree);
+    //     return element.isVisible;
+    //     // if (element.isVisible) {
+    //     //     return element.isVisible;
+    //     // } else {
+    //     //     return false;
+    //     // }
+    // }
 
-    getChildrenByPath(path, data) {
+    getChildrenByPath(path, data) { //получаем объект дерева строковому пути (path)
         if(data.path === path) {
             return data;
         } else if (data.children) {
@@ -59,7 +60,7 @@ class Root extends React.Component {
                 data = {this.state.tree}
                 openedDirectories = {["root"]}
                 directoryTheme = 'dark' //or light
-                isVisible = {{"root":true}}
+                //isVisible = {{"root":true}}
                 toggleVisibility = {this.toggleVisibility}
                 isVisible = {this.isVisible}
 
