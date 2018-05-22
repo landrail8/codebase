@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
-import Directory from '../fileTreeStructure/Directory';
-import File from '../fileTreeStructure/File';
-import { mergeStyleObjects } from '../utils/helpers';
-import defaultStyles from '../utils/defaultStyles';
-import ElemTree from './../components/ElemTree';
+import Directory from './../../fileTreeStructure/Directory';
+import File from './../../fileTreeStructure/File';
+import { mergeStyleObjects } from './../../utils/helpers';
+import defaultStyles from './../../utils/defaultStyles';
+//import ElemTree from './../components/ElemTree';
 
 
 export default class TreeFile extends Component {
