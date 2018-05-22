@@ -1,0 +1,2047 @@
+{
+"path": "root",
+"name": "root",
+"children": [  
+  {
+    "path": "view",
+    "name": "view",
+    "children": [
+     {
+      "path": "/statics",
+      "name": "statics",
+      "children": [
+       {
+        "path": "/statics/desktop",
+        "name": "desktop",
+        "children": [
+         {
+          "path": "/statics/desktop/BMSPushSDK.js",
+          "name": "BMSPushSDK.js",
+          "size": 45759,
+          "extension": ".js",
+          "type": "file"
+         },
+         {
+          "path": "/statics/desktop/BMSPushServiceWorker.js",
+          "name": "BMSPushServiceWorker.js",
+          "size": 5503,
+          "extension": ".js",
+          "type": "file"
+         },
+         {
+          "path": "/statics/desktop/css",
+          "name": "css",
+          "children": [
+           {
+            "path": "/statics/desktop/css/afisha",
+            "name": "afisha",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/css/bundle",
+            "name": "bundle",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/css/bundle2",
+            "name": "bundle2",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/css/export",
+            "name": "export",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/css/first",
+            "name": "first",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/css/module",
+            "name": "module",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/css/plugins",
+            "name": "plugins",
+            "children": [
+             {
+              "path": "/statics/desktop/css/plugins/photoswipe",
+              "name": "photoswipe",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             }
+            ],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/css/radio",
+            "name": "radio",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/css/slon_player",
+            "name": "slon_player",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/css/unisound_radioplayer",
+            "name": "unisound_radioplayer",
+            "children": [
+             {
+              "path": "/statics/desktop/css/unisound_radioplayer/v2",
+              "name": "v2",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             }
+            ],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/css/videojs",
+            "name": "videojs",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           }
+          ],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/fonts",
+          "name": "fonts",
+          "children": [
+           {
+            "path": "/statics/desktop/fonts/OpenSans",
+            "name": "OpenSans",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/fonts/PTSerif",
+            "name": "PTSerif",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/fonts/TTProstoSans",
+            "name": "TTProstoSans",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/fonts/icomoon",
+            "name": "icomoon",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/fonts/icons",
+            "name": "icons",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           }
+          ],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/frames",
+          "name": "frames",
+          "children": [
+           {
+            "path": "/statics/desktop/frames/ekt",
+            "name": "ekt",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/frames/md",
+            "name": "md",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/frames/tmp",
+            "name": "tmp",
+            "children": [
+             {
+              "path": "/statics/desktop/frames/tmp/sobinin_edge.js",
+              "name": "sobinin_edge.js",
+              "size": 4002,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 4002,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/frames/vol",
+            "name": "vol",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           }
+          ],
+          "size": 4002,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/html",
+          "name": "html",
+          "children": [
+           {
+            "path": "/statics/desktop/html/olympic2018",
+            "name": "olympic2018",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/html/push",
+            "name": "push",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           }
+          ],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/img",
+          "name": "img",
+          "children": [
+           {
+            "path": "/statics/desktop/img/form",
+            "name": "form",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/img/icons",
+            "name": "icons",
+            "children": [
+             {
+              "path": "/statics/desktop/img/icons/404",
+              "name": "404",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             },
+             {
+              "path": "/statics/desktop/img/icons/country",
+              "name": "country",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             },
+             {
+              "path": "/statics/desktop/img/icons/country-active",
+              "name": "country-active",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             },
+             {
+              "path": "/statics/desktop/img/icons/enter",
+              "name": "enter",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             }
+            ],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/img/logo",
+            "name": "logo",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/img/module",
+            "name": "module",
+            "children": [
+             {
+              "path": "/statics/desktop/img/module/olympic",
+              "name": "olympic",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             },
+             {
+              "path": "/statics/desktop/img/module/vignette",
+              "name": "vignette",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             }
+            ],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/img/olympic2018",
+            "name": "olympic2018",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/img/radio",
+            "name": "radio",
+            "children": [
+             {
+              "path": "/statics/desktop/img/radio/icons",
+              "name": "icons",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             },
+             {
+              "path": "/statics/desktop/img/radio/logos",
+              "name": "logos",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             }
+            ],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/img/temp",
+            "name": "temp",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/img/unisound_radioplayer",
+            "name": "unisound_radioplayer",
+            "children": [
+             {
+              "path": "/statics/desktop/img/unisound_radioplayer/v2",
+              "name": "v2",
+              "children": [
+               {
+                "path": "/statics/desktop/img/unisound_radioplayer/v2/logos",
+                "name": "logos",
+                "children": [],
+                "size": 0,
+                "type": "directory"
+               },
+               {
+                "path": "/statics/desktop/img/unisound_radioplayer/v2/social",
+                "name": "social",
+                "children": [],
+                "size": 0,
+                "type": "directory"
+               }
+              ],
+              "size": 0,
+              "type": "directory"
+             }
+            ],
+            "size": 0,
+            "type": "directory"
+           }
+          ],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/js",
+          "name": "js",
+          "children": [
+           {
+            "path": "/statics/desktop/js/JSXTransformer.js",
+            "name": "JSXTransformer.js",
+            "size": 493430,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/adriver.js",
+            "name": "adriver.js",
+            "size": 24,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/advert.min.js",
+            "name": "advert.min.js",
+            "size": 30034,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/apester-javascript-sdk.min.js",
+            "name": "apester-javascript-sdk.min.js",
+            "size": 17129,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/article.js",
+            "name": "article.js",
+            "size": 6663,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/assets",
+            "name": "assets",
+            "children": [
+             {
+              "path": "/statics/desktop/js/assets/Array.filter.js",
+              "name": "Array.filter.js",
+              "size": 1323,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/assets/Array.some.js",
+              "name": "Array.some.js",
+              "size": 861,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/assets/EventEmitter.js",
+              "name": "EventEmitter.js",
+              "size": 18814,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/assets/Math.sign.js",
+              "name": "Math.sign.js",
+              "size": 302,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/assets/String.startsWith.js",
+              "name": "String.startsWith.js",
+              "size": 370,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/assets/object.assign.js",
+              "name": "object.assign.js",
+              "size": 1193,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/assets/url.js",
+              "name": "url.js",
+              "size": 4362,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 27225,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/autobahn.min.js",
+            "name": "autobahn.min.js",
+            "size": 164471,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/broadcastexport.1.js",
+            "name": "broadcastexport.1.js",
+            "size": 16960,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/broadcastexport.js",
+            "name": "broadcastexport.js",
+            "size": 49588,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/bundle",
+            "name": "bundle",
+            "children": [
+             {
+              "path": "/statics/desktop/js/bundle/AudioPlayer.js",
+              "name": "AudioPlayer.js",
+              "size": 9690,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/bundle/ctrl.enter.mistake.js",
+              "name": "ctrl.enter.mistake.js",
+              "size": 13854,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/bundle/device.js",
+              "name": "device.js",
+              "size": 8019,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/bundle/grid.js",
+              "name": "grid.js",
+              "size": 5145,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/bundle/loaders.js",
+              "name": "loaders.js",
+              "size": 24801,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/bundle/md5.js",
+              "name": "md5.js",
+              "size": 6094,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/bundle/radio.js",
+              "name": "radio.js",
+              "size": 8743,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/bundle/utils.js",
+              "name": "utils.js",
+              "size": 75663,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/bundle/victorina.js",
+              "name": "victorina.js",
+              "size": 1716,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/bundle/wamp.js",
+              "name": "wamp.js",
+              "size": 4421,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 158146,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/bundle.all.min.js",
+            "name": "bundle.all.min.js",
+            "size": 1306554,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/bundle.all.with.frames.min.js",
+            "name": "bundle.all.with.frames.min.js",
+            "size": 1335083,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/bundle.min.js",
+            "name": "bundle.min.js",
+            "size": 84068,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/bundle.min.test.js",
+            "name": "bundle.min.test.js",
+            "size": 83058,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/components",
+            "name": "components",
+            "children": [
+             {
+              "path": "/statics/desktop/js/components/404.js",
+              "name": "404.js",
+              "size": 4132,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/advertFrame.js",
+              "name": "advertFrame.js",
+              "size": 1887,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/animation.js",
+              "name": "animation.js",
+              "size": 8443,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/blockArticle.js",
+              "name": "blockArticle.js",
+              "size": 5281,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/blockArticleRadio.js",
+              "name": "blockArticleRadio.js",
+              "size": 8025,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/blockDigestItem.js",
+              "name": "blockDigestItem.js",
+              "size": 9503,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/broadcasts.js",
+              "name": "broadcasts.js",
+              "size": 13356,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/comments.js",
+              "name": "comments.js",
+              "size": 19032,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/digest.rubricator.js",
+              "name": "digest.rubricator.js",
+              "size": 1388,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/digestColumnists.js",
+              "name": "digestColumnists.js",
+              "size": 5087,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/headWidgetRadio.js",
+              "name": "headWidgetRadio.js",
+              "size": 7097,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/header.js",
+              "name": "header.js",
+              "size": 12803,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/index.js",
+              "name": "index.js",
+              "size": 21833,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/mailSubscriptionForm.js",
+              "name": "mailSubscriptionForm.js",
+              "size": 9606,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/mailSubscriptionPopups.js",
+              "name": "mailSubscriptionPopups.js",
+              "size": 7175,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/main.js",
+              "name": "main.js",
+              "size": 3854,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/mainPhoto.js",
+              "name": "mainPhoto.js",
+              "size": 6303,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/news.js",
+              "name": "news.js",
+              "size": 46176,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/photoContest.js",
+              "name": "photoContest.js",
+              "size": 35073,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/photoContestForm.js",
+              "name": "photoContestForm.js",
+              "size": 15141,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/photos.js",
+              "name": "photos.js",
+              "size": 13178,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/press-question.js",
+              "name": "press-question.js",
+              "size": 12960,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/radioSchedule.js",
+              "name": "radioSchedule.js",
+              "size": 3627,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/radioWidget.js",
+              "name": "radioWidget.js",
+              "size": 1780,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/recaptcha.js",
+              "name": "recaptcha.js",
+              "size": 3900,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/section.js",
+              "name": "section.js",
+              "size": 7108,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/sectionRadio.js",
+              "name": "sectionRadio.js",
+              "size": 1247,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/seealso.js",
+              "name": "seealso.js",
+              "size": 6521,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/shareBlock.js",
+              "name": "shareBlock.js",
+              "size": 1644,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/soccer2018.js",
+              "name": "soccer2018.js",
+              "size": 6682,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/subscribe.js",
+              "name": "subscribe.js",
+              "size": 39857,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/top.js",
+              "name": "top.js",
+              "size": 9012,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/user.js",
+              "name": "user.js",
+              "size": 1169,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/components/video.js",
+              "name": "video.js",
+              "size": 50231,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 400111,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/components.min.js",
+            "name": "components.min.js",
+            "size": 239225,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/components.revert.min.js",
+            "name": "components.revert.min.js",
+            "size": 234512,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/constants",
+            "name": "constants",
+            "children": [
+             {
+              "path": "/statics/desktop/js/constants/constants.js",
+              "name": "constants.js",
+              "size": 297,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 297,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/embed",
+            "name": "embed",
+            "children": [
+             {
+              "path": "/statics/desktop/js/embed/embed.js",
+              "name": "embed.js",
+              "size": 14703,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 14703,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/es5",
+            "name": "es5",
+            "children": [
+             {
+              "path": "/statics/desktop/js/es5/AudioPlayer.js",
+              "name": "AudioPlayer.js",
+              "size": 12040,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/es5/radio.js",
+              "name": "radio.js",
+              "size": 7434,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 19474,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/es5-sham.min.js",
+            "name": "es5-sham.min.js",
+            "size": 5683,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/es5-shim.min.js",
+            "name": "es5-shim.min.js",
+            "size": 24991,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/flexibility.js",
+            "name": "flexibility.js",
+            "size": 17383,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/frames",
+            "name": "frames",
+            "children": [
+             {
+              "path": "/statics/desktop/js/frames/ad.js",
+              "name": "ad.js",
+              "size": 48630,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/adfoxurl.js",
+              "name": "adfoxurl.js",
+              "size": 2119,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/adriver.core.2.js",
+              "name": "adriver.core.2.js",
+              "size": 6160,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/adriverConfig.js",
+              "name": "adriverConfig.js",
+              "size": 4978,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/adriverPingViewing.js",
+              "name": "adriverPingViewing.js",
+              "size": 1057,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/adv.js",
+              "name": "adv.js",
+              "size": 7738,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/advFrameCollapse.js",
+              "name": "advFrameCollapse.js",
+              "size": 1810,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/aspg.js",
+              "name": "aspg.js",
+              "size": 313,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/bannersRotation.js",
+              "name": "bannersRotation.js",
+              "size": 1326,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/buildAdriverBanner.js",
+              "name": "buildAdriverBanner.js",
+              "size": 8136,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/comments-form.js",
+              "name": "comments-form.js",
+              "size": 17721,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/configureAdvContent.js",
+              "name": "configureAdvContent.js",
+              "size": 1199,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/frame-expand.js",
+              "name": "frame-expand.js",
+              "size": 1267,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/header-bidding-criteo.js",
+              "name": "header-bidding-criteo.js",
+              "size": 1472,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/loadGoogleTagBanners.js",
+              "name": "loadGoogleTagBanners.js",
+              "size": 1002,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/page_src.js",
+              "name": "page_src.js",
+              "size": 514,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/pg.js",
+              "name": "pg.js",
+              "size": 939,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/pinBanners.js",
+              "name": "pinBanners.js",
+              "size": 7533,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/prebid-adriver.js",
+              "name": "prebid-adriver.js",
+              "size": 4552,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/prebid.js",
+              "name": "prebid.js",
+              "size": 137470,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/push-popup.js",
+              "name": "push-popup.js",
+              "size": 3980,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/push-subscribe.js",
+              "name": "push-subscribe.js",
+              "size": 3985,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/frames/scroll.js",
+              "name": "scroll.js",
+              "size": 5459,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 269360,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/frames.only.min.js",
+            "name": "frames.only.min.js",
+            "size": 30938,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/go.js",
+            "name": "go.js",
+            "size": 321,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/gtm.js",
+            "name": "gtm.js",
+            "size": 49735,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/jquery.lazyload.min.js",
+            "name": "jquery.lazyload.min.js",
+            "size": 3381,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/jquery.min.js",
+            "name": "jquery.min.js",
+            "size": 95786,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/jquery.scrollTo.min.js",
+            "name": "jquery.scrollTo.min.js",
+            "size": 2444,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/jw",
+            "name": "jw",
+            "children": [
+             {
+              "path": "/statics/desktop/js/jw/jwplayer.html5.js",
+              "name": "jwplayer.html5.js",
+              "size": 173499,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/jw/jwplayer.js",
+              "name": "jwplayer.js",
+              "size": 71704,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/jw/jwplayer6.html5.js",
+              "name": "jwplayer6.html5.js",
+              "size": 162718,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/jw/jwplayer6.js",
+              "name": "jwplayer6.js",
+              "size": 66889,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/jw/skins",
+              "name": "skins",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             }
+            ],
+            "size": 474810,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/jwplayer",
+            "name": "jwplayer",
+            "children": [
+             {
+              "path": "/statics/desktop/js/jwplayer/jwplayer.html5.js",
+              "name": "jwplayer.html5.js",
+              "size": 198750,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/jwplayer/jwplayer.js",
+              "name": "jwplayer.js",
+              "size": 78898,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 277648,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/lightslider.js",
+            "name": "lightslider.js",
+            "size": 46276,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/localforage.min.js",
+            "name": "localforage.min.js",
+            "size": 23580,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/modernizr-custom.js",
+            "name": "modernizr-custom.js",
+            "size": 995,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/module",
+            "name": "module",
+            "children": [
+             {
+              "path": "/statics/desktop/js/module/clipboard.min.js",
+              "name": "clipboard.min.js",
+              "size": 10579,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/cover.js",
+              "name": "cover.js",
+              "size": 1503,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/flbuttons.min.js",
+              "name": "flbuttons.min.js",
+              "size": 7476,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/head-medals-react.js",
+              "name": "head-medals-react.js",
+              "size": 2377,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/isBlocked.js",
+              "name": "isBlocked.js",
+              "size": 5279,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/konva.min.js",
+              "name": "konva.min.js",
+              "size": 137539,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/myFrame.js",
+              "name": "myFrame.js",
+              "size": 5378,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/myFrame.min.js",
+              "name": "myFrame.min.js",
+              "size": 2880,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/olympic-widget.min.js",
+              "name": "olympic-widget.min.js",
+              "size": 3750,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/olympic.json",
+              "name": "olympic.json",
+              "size": 43824,
+              "extension": ".json",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/olympic_widget.js",
+              "name": "olympic_widget.js",
+              "size": 6287,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/ouibounce.js",
+              "name": "ouibounce.js",
+              "size": 4875,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/subscribePopap.js",
+              "name": "subscribePopap.js",
+              "size": 1976,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/subscribePopap.min.js",
+              "name": "subscribePopap.min.js",
+              "size": 0,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/unisound.js",
+              "name": "unisound.js",
+              "size": 18278,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/video.eagleplatform.force.methods.js",
+              "name": "video.eagleplatform.force.methods.js",
+              "size": 2087,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module/vignette.js",
+              "name": "vignette.js",
+              "size": 18941,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 273029,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/module.min.js",
+            "name": "module.min.js",
+            "size": 0,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/module2",
+            "name": "module2",
+            "children": [
+             {
+              "path": "/statics/desktop/js/module2/olympic.js",
+              "name": "olympic.js",
+              "size": 20790,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/module2/user.js",
+              "name": "user.js",
+              "size": 1333,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 22123,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/module2.min.js",
+            "name": "module2.min.js",
+            "size": 16271,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/pano",
+            "name": "pano",
+            "children": [
+             {
+              "path": "/statics/desktop/js/pano/gyro.js",
+              "name": "gyro.js",
+              "size": 6285,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/pano/gyro2.js",
+              "name": "gyro2.js",
+              "size": 0,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/pano/pano.js",
+              "name": "pano.js",
+              "size": 148084,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/pano/viewer.js",
+              "name": "viewer.js",
+              "size": 4236,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 158605,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/panorama",
+            "name": "panorama",
+            "children": [
+             {
+              "path": "/statics/desktop/js/panorama/CSS3DRenderer.js",
+              "name": "CSS3DRenderer.js",
+              "size": 6999,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/panorama/three.min.js",
+              "name": "three.min.js",
+              "size": 415779,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 422778,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/photoswipe.all.min.js",
+            "name": "photoswipe.all.min.js",
+            "size": 47285,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/plugins",
+            "name": "plugins",
+            "children": [
+             {
+              "path": "/statics/desktop/js/plugins/photoswipe",
+              "name": "photoswipe",
+              "children": [
+               {
+                "path": "/statics/desktop/js/plugins/photoswipe/main.js",
+                "name": "main.js",
+                "size": 5681,
+                "extension": ".js",
+                "type": "file"
+               },
+               {
+                "path": "/statics/desktop/js/plugins/photoswipe/photoswipe-ui-default.min.js",
+                "name": "photoswipe-ui-default.min.js",
+                "size": 9876,
+                "extension": ".js",
+                "type": "file"
+               },
+               {
+                "path": "/statics/desktop/js/plugins/photoswipe/photoswipe.min.js",
+                "name": "photoswipe.min.js",
+                "size": 31726,
+                "extension": ".js",
+                "type": "file"
+               }
+              ],
+              "size": 47283,
+              "type": "directory"
+             }
+            ],
+            "size": 47283,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/prebid.all.min.js",
+            "name": "prebid.all.min.js",
+            "size": 0,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/prerequisites.min.js",
+            "name": "prerequisites.min.js",
+            "size": 983259,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/radio",
+            "name": "radio",
+            "children": [
+             {
+              "path": "/statics/desktop/js/radio/datepicker-ru.js",
+              "name": "datepicker-ru.js",
+              "size": 1380,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/radio/jquery-ui.min.js",
+              "name": "jquery-ui.min.js",
+              "size": 240422,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/radio/main.js",
+              "name": "main.js",
+              "size": 831,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/radio/player.api.js",
+              "name": "player.api.js",
+              "size": 6995,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 249628,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/react.js",
+            "name": "react.js",
+            "size": 600572,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/react.min.js",
+            "name": "react.min.js",
+            "size": 121738,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/search",
+            "name": "search",
+            "children": [
+             {
+              "path": "/statics/desktop/js/search/search.js",
+              "name": "search.js",
+              "size": 690,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/search/show_afs_search.js",
+              "name": "show_afs_search.js",
+              "size": 3373,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 4063,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/share",
+            "name": "share",
+            "children": [
+             {
+              "path": "/statics/desktop/js/share/fb.all.js",
+              "name": "fb.all.js",
+              "size": 162584,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/share/fb.sdk.js",
+              "name": "fb.sdk.js",
+              "size": 178594,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/share/index.js",
+              "name": "index.js",
+              "size": 23931,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 365109,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/slon_player",
+            "name": "slon_player",
+            "children": [
+             {
+              "path": "/statics/desktop/js/slon_player/player.js",
+              "name": "player.js",
+              "size": 136461,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 136461,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/unisound_radioplayer",
+            "name": "unisound_radioplayer",
+            "children": [
+             {
+              "path": "/statics/desktop/js/unisound_radioplayer/v2",
+              "name": "v2",
+              "children": [
+               {
+                "path": "/statics/desktop/js/unisound_radioplayer/v2/adman.min.js",
+                "name": "adman.min.js",
+                "size": 82842,
+                "extension": ".js",
+                "type": "file"
+               },
+               {
+                "path": "/statics/desktop/js/unisound_radioplayer/v2/jquery.jplayer.min.js",
+                "name": "jquery.jplayer.min.js",
+                "size": 60950,
+                "extension": ".js",
+                "type": "file"
+               },
+               {
+                "path": "/statics/desktop/js/unisound_radioplayer/v2/radio.js",
+                "name": "radio.js",
+                "size": 11273,
+                "extension": ".js",
+                "type": "file"
+               }
+              ],
+              "size": 155065,
+              "type": "directory"
+             }
+            ],
+            "size": 155065,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/js/url-correction-for-adfox.js",
+            "name": "url-correction-for-adfox.js",
+            "size": 584,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/js/videojs",
+            "name": "videojs",
+            "children": [
+             {
+              "path": "/statics/desktop/js/videojs/ima3.js",
+              "name": "ima3.js",
+              "size": 219507,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/videojs/silvermine-videojs-quality-selector.js",
+              "name": "silvermine-videojs-quality-selector.js",
+              "size": 67232,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/videojs/video.min.js",
+              "name": "video.min.js",
+              "size": 190204,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/videojs/videojs.ads.js",
+              "name": "videojs.ads.js",
+              "size": 53097,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/js/videojs/videojs.ima.js",
+              "name": "videojs.ima.js",
+              "size": 75281,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 605321,
+            "type": "directory"
+           }
+          ],
+          "size": 10213260,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/json",
+          "name": "json",
+          "children": [
+           {
+            "path": "/statics/desktop/json/KPCities.json",
+            "name": "KPCities.json",
+            "size": 17180,
+            "extension": ".json",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/json/apps",
+            "name": "apps",
+            "children": [
+             {
+              "path": "/statics/desktop/json/apps/mob_app_authors.json",
+              "name": "mob_app_authors.json",
+              "size": 699,
+              "extension": ".json",
+              "type": "file"
+             }
+            ],
+            "size": 699,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/json/config-android.json",
+            "name": "config-android.json",
+            "size": 7930,
+            "extension": ".json",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/json/unisound_radioplayer",
+            "name": "unisound_radioplayer",
+            "children": [
+             {
+              "path": "/statics/desktop/json/unisound_radioplayer/v2",
+              "name": "v2",
+              "children": [
+               {
+                "path": "/statics/desktop/json/unisound_radioplayer/v2/data.json",
+                "name": "data.json",
+                "size": 21141,
+                "extension": ".json",
+                "type": "file"
+               },
+               {
+                "path": "/statics/desktop/json/unisound_radioplayer/v2/data_kp.json",
+                "name": "data_kp.json",
+                "size": 13889,
+                "extension": ".json",
+                "type": "file"
+               }
+              ],
+              "size": 35030,
+              "type": "directory"
+             }
+            ],
+            "size": 35030,
+            "type": "directory"
+           }
+          ],
+          "size": 60839,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/manifest.json",
+          "name": "manifest.json",
+          "size": 744,
+          "extension": ".json",
+          "type": "file"
+         },
+         {
+          "path": "/statics/desktop/pano",
+          "name": "pano",
+          "children": [
+           {
+            "path": "/statics/desktop/pano/skin",
+            "name": "skin",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           }
+          ],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/plugins",
+          "name": "plugins",
+          "children": [
+           {
+            "path": "/statics/desktop/plugins/flexslider",
+            "name": "flexslider",
+            "children": [
+             {
+              "path": "/statics/desktop/plugins/flexslider/fonts",
+              "name": "fonts",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             },
+             {
+              "path": "/statics/desktop/plugins/flexslider/jquery.flexslider-min.js",
+              "name": "jquery.flexslider-min.js",
+              "size": 22334,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 22334,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/plugins/jquery.viewportchecker.js",
+            "name": "jquery.viewportchecker.js",
+            "size": 7613,
+            "extension": ".js",
+            "type": "file"
+           },
+           {
+            "path": "/statics/desktop/plugins/lightslider",
+            "name": "lightslider",
+            "children": [
+             {
+              "path": "/statics/desktop/plugins/lightslider/lightslider.js",
+              "name": "lightslider.js",
+              "size": 46276,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/plugins/lightslider/lightslider.min.js",
+              "name": "lightslider.min.js",
+              "size": 14989,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 61265,
+            "type": "directory"
+           },
+           {
+            "path": "/statics/desktop/plugins/photoswipe",
+            "name": "photoswipe",
+            "children": [
+             {
+              "path": "/statics/desktop/plugins/photoswipe/default-skin",
+              "name": "default-skin",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             },
+             {
+              "path": "/statics/desktop/plugins/photoswipe/main.js",
+              "name": "main.js",
+              "size": 5681,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/plugins/photoswipe/photoswipe-ui-default.min.js",
+              "name": "photoswipe-ui-default.min.js",
+              "size": 9876,
+              "extension": ".js",
+              "type": "file"
+             },
+             {
+              "path": "/statics/desktop/plugins/photoswipe/photoswipe.min.js",
+              "name": "photoswipe.min.js",
+              "size": 31726,
+              "extension": ".js",
+              "type": "file"
+             }
+            ],
+            "size": 47283,
+            "type": "directory"
+           }
+          ],
+          "size": 138495,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/radio",
+          "name": "radio",
+          "children": [
+           {
+            "path": "/statics/desktop/radio/fm",
+            "name": "fm",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           }
+          ],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/scss",
+          "name": "scss",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/search",
+          "name": "search",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/subscribe",
+          "name": "subscribe",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/swf",
+          "name": "swf",
+          "children": [
+           {
+            "path": "/statics/desktop/swf/unisound_radioplayer",
+            "name": "unisound_radioplayer",
+            "children": [
+             {
+              "path": "/statics/desktop/swf/unisound_radioplayer/v2",
+              "name": "v2",
+              "children": [],
+              "size": 0,
+              "type": "directory"
+             }
+            ],
+            "size": 0,
+            "type": "directory"
+           }
+          ],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/statics/desktop/tmpl",
+          "name": "tmpl",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+         }
+        ],
+        "size": 10468602,
+        "type": "directory"
+       }
+      ],
+      "size": 10468602,
+      "type": "directory"
+     },
+     {
+      "path": "/xslt",
+      "name": "xslt",
+      "children": [
+       {
+        "path": "/xslt/desktop",
+        "name": "desktop",
+        "children": [
+         {
+          "path": "/xslt/desktop/include",
+          "name": "include",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/xslt/desktop/objects",
+          "name": "objects",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/xslt/desktop/pano",
+          "name": "pano",
+          "children": [
+           {
+            "path": "/xslt/desktop/pano/skin",
+            "name": "skin",
+            "children": [],
+            "size": 0,
+            "type": "directory"
+           }
+          ],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/xslt/desktop/radio",
+          "name": "radio",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+         },
+         {
+          "path": "/xslt/desktop/special",
+          "name": "special",
+          "children": [],
+          "size": 0,
+          "type": "directory"
+         }
+        ],
+        "size": 0,
+        "type": "directory"
+       }
+      ],
+      "size": 0,
+      "type": "directory"
+     }
+    ],
+ "size": 10468602,
+ "type": "directory"
+  }]
+}
