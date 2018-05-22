@@ -1,5 +1,5 @@
 import React, { PropTypes } from 'react';
-import TreeFile from './TreeFile';
+import TreeFile from '../../components/TreeFile.js';
 import data from './../../fileTreeStructure/structureFiles.json';
 //../fileTreeStructure/structureFiles.json';
 import { DevTools } from './../../utils/index';

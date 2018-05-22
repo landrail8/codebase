@@ -3,7 +3,7 @@ import Directory from '../fileTreeStructure/Directory';
 import File from '../fileTreeStructure/File';
 import { mergeStyleObjects } from '../utils/helpers';
 import defaultStyles from '../utils/defaultStyles';
-import ElemTree from './../components/ElemTree';
+import ElemTree from './ElemTree';
 
 
 export default class TreeFile extends Component {
@@ -99,11 +99,12 @@ export default class TreeFile extends Component {
               }
           </li>
           :
-          <li className="_file" key={filePath} style={fileStyle}><File className="file" />{`               ${fileName}`}</li>;
-          // <ElemTree
-          //   file = {file}
-          //   fileStyle = {fileStyle}
-          // />
+          //  <li className="_file" key={filePath} style={fileStyle}><File className="file" />{`               ${fileName}`}</li>;
+          <ElemTree
+            key = {filePath + ' File'}
+            file = {file}
+            fileStyle = {fileStyle}
+          />
           
           })
         }
